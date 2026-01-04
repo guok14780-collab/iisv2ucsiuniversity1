@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'emsfont';
+    src: url('https://gomystudy.maxapex.net/Captpod.ttf') format('truetype');
+  }
+  
+  .emslogo{
+      font-family: emsfont,emsfont2,'Helvetica Neue','Segoe UI',Helvetica,Arial,sans-serif;
+      font-size:2em;
+      color:#ff0000;
+  }
+  
+  .t-Header-logo-link img.emslogo {
+    max-height: 2rem;
+    display: inline-block;
+}
+
+  @font-face {
+    font-family: 'emsfont2';
+    src: url('https://gomycampus2.informinent.com/Captpod.ttf') format('truetype');
+  }
